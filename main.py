@@ -11,4 +11,4 @@ async def on_ready():
     print(f'We have logged in as {bot.user}')
     await bot.change_presence(activity=discord.Streaming(name='streaming-name', url='https://www.twitch.tv/urtwitchusername'))
 
-bot.run('YOUR_BOT_TOKEN')
+bot.run('MTI0ODM0NDQ5MDYzNzM5MzkyMA.GYg_Fy.QXT937rXgDCt8hrUHHjqwKL7svus9UuBFQzcj8')
